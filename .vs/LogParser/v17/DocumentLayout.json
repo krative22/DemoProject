@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\LogParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|e:\\c#\\logparser\\logfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|solutionrelative:logfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|e:\\c#\\logparser\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|solutionrelative:logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|e:\\c#\\logparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|e:\\c#\\logparser\\logparser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F432153D-8024-47A7-A09A-4A6079B635A5}|LogParser.csproj|solutionrelative:logparser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogParser",
+              "DocumentMoniker": "E:\\C#\\LogParser\\LogParser.csproj",
+              "RelativeDocumentMoniker": "LogParser.csproj",
+              "ToolTip": "E:\\C#\\LogParser\\LogParser.csproj",
+              "RelativeToolTip": "LogParser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T08:04:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogFileParser.cs",
+              "DocumentMoniker": "E:\\C#\\LogParser\\LogFileParser.cs",
+              "RelativeDocumentMoniker": "LogFileParser.cs",
+              "ToolTip": "E:\\C#\\LogParser\\LogFileParser.cs",
+              "RelativeToolTip": "LogFileParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:46:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "E:\\C#\\LogParser\\LogEntry.cs",
+              "RelativeDocumentMoniker": "LogEntry.cs",
+              "ToolTip": "E:\\C#\\LogParser\\LogEntry.cs",
+              "RelativeToolTip": "LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:46:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\LogParser\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\LogParser\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:45:11.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

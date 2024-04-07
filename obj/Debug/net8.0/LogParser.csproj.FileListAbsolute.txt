@@ -1,0 +1,28 @@
+E:\C# project\LogParser\bin\Debug\net8.0\LogParser.exe
+E:\C# project\LogParser\bin\Debug\net8.0\LogParser.deps.json
+E:\C# project\LogParser\bin\Debug\net8.0\LogParser.runtimeconfig.json
+E:\C# project\LogParser\bin\Debug\net8.0\LogParser.dll
+E:\C# project\LogParser\bin\Debug\net8.0\LogParser.pdb
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfoInputs.cache
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfo.cs
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.csproj.CoreCompileInputs.cache
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.dll
+E:\C# project\LogParser\obj\Debug\net8.0\refint\LogParser.dll
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.pdb
+E:\C# project\LogParser\obj\Debug\net8.0\LogParser.genruntimeconfig.cache
+E:\C# project\LogParser\obj\Debug\net8.0\ref\LogParser.dll
+E:\C#\LogParser\bin\Debug\net8.0\LogParser.exe
+E:\C#\LogParser\bin\Debug\net8.0\LogParser.deps.json
+E:\C#\LogParser\bin\Debug\net8.0\LogParser.runtimeconfig.json
+E:\C#\LogParser\bin\Debug\net8.0\LogParser.dll
+E:\C#\LogParser\bin\Debug\net8.0\LogParser.pdb
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfoInputs.cache
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.AssemblyInfo.cs
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.csproj.CoreCompileInputs.cache
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.dll
+E:\C#\LogParser\obj\Debug\net8.0\refint\LogParser.dll
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.pdb
+E:\C#\LogParser\obj\Debug\net8.0\LogParser.genruntimeconfig.cache
+E:\C#\LogParser\obj\Debug\net8.0\ref\LogParser.dll
